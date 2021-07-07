@@ -2,7 +2,7 @@ touch .gitignore
 git config --global user.name Keshav
 git config --global user.email keshavkjha1999@gmail.com
 git init
-hit add .
+git add .
 git commit -m "Initial Commit"
 git status 
 ssh-keygen -t rsa -b 4096 -C "keshavkjha1999@gmail.com"
